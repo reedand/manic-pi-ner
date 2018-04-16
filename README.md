@@ -31,5 +31,3 @@ chmod +X manic.py
 ./manic.py
 ```
 Use the joystick/button or break out of the Python script to exit.
-
-/play bueller

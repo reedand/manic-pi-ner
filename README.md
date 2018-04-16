@@ -1,6 +1,6 @@
 # Manic-pi-ner
 
-A screensaver homage to Matthew Smith's [Manic Miner](https://en.wikipedia.org/wiki/Manic_Miner) intended for use with the Raspberry Pi Zero W<sup>1</sup> and @pimoroni's [Display-o-tron 3000](https://github.com/pimoroni/displayotron).
+A screensaver homage to Matthew Smith's [Manic Miner](https://en.wikipedia.org/wiki/Manic_Miner) intended for use with the Raspberry Pi Zero W<sup>1</sup> and Pimoroni's [Display-o-tron 3000](https://github.com/pimoroni/displayotron).
 
 ![screensaver image](https://raw.githubusercontent.com/reedand/manic-pi-ner/master/manic.jpeg)
 
@@ -31,3 +31,5 @@ chmod +X manic.py
 ./manic.py
 ```
 Use the joystick/button or break out of the Python script to exit.
+
+/play bueller

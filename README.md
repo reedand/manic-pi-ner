@@ -23,7 +23,7 @@ sudo apt-get install git
 
 ## Usage
 
-Change directory to the ../dot3k/advanced/ dir, clone the Python file, make it executable then execute it:
+Change directory to the ../dot3k/advanced/ dir, clone the repository, make the manic.py executable then execute it:
 ```bash
 cd ~/Pimoroni/displayotron/examples/dot3k/advanced
 git clone https://github.com/reedand/manic-pi-ner ./manic-pi-ner

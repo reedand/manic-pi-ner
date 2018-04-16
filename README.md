@@ -8,7 +8,7 @@ A screensaver homage to Matthew Smith's [Manic Miner](https://en.wikipedia.org/w
 
 ## License
 
-See [license](https://github.com/reedand/manic-pi-ner/master/LICENSE)
+See [license](https://github.com/reedand/manic-pi-ner/blob/master/LICENSE)
 
 ## Pre-requisites
 

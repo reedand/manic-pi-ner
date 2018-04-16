@@ -26,8 +26,9 @@ sudo apt-get install git
 Change directory to the ../dot3k/advanced/ dir, clone the Python file, make it executable then execute it:
 ```bash
 cd ~/Pimoroni/displayotron/examples/dot3k/advanced
-git clone https://github.com/reedand/manic-pi-ner/master/manic.py ./
-chmod +X manic.py
+git clone https://github.com/reedand/manic-pi-ner ./manic-pi-ner
+cd manic-pi-ner
+chmod +x manic.py
 ./manic.py
 ```
 Use the joystick/button or break out of the Python script to exit.

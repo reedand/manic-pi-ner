@@ -10,5 +10,10 @@ You'll need a Raspberry Pi Zero W with Pimoroni Displayotron 3000 (dot3k) instal
 
 ## Usage
 
+Change directory to the ../dot3k/advanced/ dir, clone the Python file, make it executable then execute it:
+```
 cd ~/Pimoroni/displayotron/examples/dot3k/advanced
-Clone the py file
+git clone https://github.com/reedand/manic-pi-ner/master/manic.py ./
+chmod +X manic.py
+./manic.py
+```

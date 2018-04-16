@@ -1,6 +1,6 @@
 # Manic-pi-ner
 
-A screensaver homage to Matthew Smith's [Manic Miner](https://en.wikipedia.org/wiki/Manic_Miner) intended for use with the Raspberry Pi Zero W<sup>1</sup> and Pimoroni's Displayotron 3000.
+A screensaver homage to Matthew Smith's [Manic Miner](https://en.wikipedia.org/wiki/Manic_Miner) intended for use with the Raspberry Pi Zero W<sup>1</sup> and @pimoroni's [Display-o-tron 3000](https://github.com/pimoroni/displayotron).
 
 ![screensaver image](https://raw.githubusercontent.com/reedand/manic-pi-ner/master/manic.jpeg)
 
@@ -14,7 +14,7 @@ See [license](https://github.com/reedand/manic-pi-ner/master/license.md)
 
 You'll need...
 
-- [x] a willingness to overlook a really bad word play in the repository name
+- [x] a willingness to overlook a really bad word play in the repository name :unamused:
 - [x] a Raspberry Pi Zero W with Pimoroni Displayotron 3000 (dot3k) installed and working per the Pimoroni [documentation](https://learn.pimoroni.com/tutorial/display-o-tron/getting-started-with-display-o-tron)
 - [x] git installed
 ```bash
